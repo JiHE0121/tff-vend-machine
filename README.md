@@ -1,0 +1,5 @@
+![battery-anim](https://github.com/user-attachments/assets/97fc4dc9-3d10-407a-bbf9-7964502f4376)
+![access-anim](https://github.com/user-attachments/assets/e8e79d50-70e5-4dd3-a33a-c1099ce1a1a7)
+![drink-anim](https://github.com/user-attachments/assets/5fa50f6e-23cc-4d69-bedd-da746db6e608)
+![poop-anim](https://github.com/user-attachments/assets/e406d648-9115-47b5-9f9c-3a10e2f7deb7)
+![boom-anim](https://github.com/user-attachments/assets/ca420f3c-7a41-480b-8cdd-f108ecb9bf94)
